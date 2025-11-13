@@ -926,6 +926,7 @@ display: none;
   width: 400px;
   text-align: center;
   align-items: center;
+  margin-left: 0px;
 }
 .hero1 h1{
   font-size: 40px;
@@ -1092,4 +1093,5 @@ height: 160px;
   border-radius: none;
   
 }
+
 }
